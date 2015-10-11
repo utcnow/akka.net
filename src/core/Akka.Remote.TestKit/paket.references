@@ -1,0 +1,7 @@
+Google.ProtocolBuffers
+System.Collections.Immutable
+Helios
+
+group Test
+xunit.core
+xunit.assert
